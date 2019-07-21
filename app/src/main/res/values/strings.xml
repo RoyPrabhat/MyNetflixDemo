@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyNetflixDemo</string>
+    <string name="media_url_dash"><![CDATA[http://www.youtube.com/api/manifest/dash/id/bf5bb2419360daf1/source/youtube?as=fmp4_audio_clear,fmp4_sd_hd_clear&sparams=ip,ipbits,expire,source,id,as&ip=0.0.0.0&ipbits=0&expire=19000000000&signature=51AF5F39AB0CEC3E5497CD9C900EBFEAECCCB5C7.8506521BFC350652163895D4C26DEE124209AA9E&key=ik0]]></string>
+
+    // main activity display strings
+    <string name="category_one">Category One</string>
+    <string name="category_two">Category Two</string>
+    <string name="category_three">Category Three</string>
+    <string name="category_four">Category Four</string>
+    <string name="category_five">Category Five</string>
+    <string name="category_six">Category Six</string>
+    <string name="category_seven">Category Seven</string>
+    <string name="category_eight">Category Eight</string>
+    <string name="category_nine">Category Nine</string>
+    <string name="category_ten">Category Ten</string>
+
+    // movie details activity display strings
+    <string name="play">Play Movie</string>
+
+
+    // movie player activity display strings
+    <string name="user_agent">user agent</string>
+
+    // movie deatail activity display strings
+    <string name="movie_details">movieDetails</string>
+
+    // movie description
+    <string name="movie_description" >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s,when an unknown printer took a galley of type and scrambled it to make a typespecimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages"</string>
+
+</resources>
